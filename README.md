@@ -47,10 +47,10 @@ This interactive dashboard lets users explore **actual vs. predicted win probabi
 
 ## What I Learned From Building It
 
-- How to move from a Jupyter Notebook prototype to a fully interactive web app  
+- How to convert a Jupyter Notebook idea into a fully interactive web app  
 - Gained real experience in **model interpretability**, **client-focused design**, and **data storytelling**  
 - Learned the importance of visual feedback when debugging or improving ML models  
-- Saw firsthand how **interactive dashboards** turn static insights into flexible tools
+- Saw firsthand how **interactive dashboards** turn static insights into tools
 
 </td>
 
