@@ -415,7 +415,9 @@ if 'model' in st.session_state and 'game_df' in st.session_state:
                         -1px  1px 0 {home_team_color},
                         1px  1px 0 {home_team_color},
                         0px  1px 0 {home_team_color},
-                        0px  -1px 0 {home_team_color};">
+                        0px  -1px 0 {home_team_color},
+                        1px  0px 0 {home_team_color},
+                        -1px  0px 0 {home_team_color};">
                         {home_team_full}
                     </span>
                 </div>
@@ -449,7 +451,9 @@ if 'model' in st.session_state and 'game_df' in st.session_state:
                         -1px  1px 0 {away_team_color},
                         1px  1px 0 {away_team_color},
                         0px  1px 0 {away_team_color},
-                        0px  -1px 0 {away_team_color};">
+                        0px  -1px 0 {away_team_color},
+                        1px  0px 0 {away_team_color},
+                        -1px  0px 0 {away_team_color};">
                         {away_team_full}
                     </span>
                 </div>
