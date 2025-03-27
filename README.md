@@ -58,7 +58,15 @@ This interactive dashboard lets users explore **actual vs. predicted win probabi
 - Learned the importance of visual feedback when debugging or improving ML models  
 - Saw firsthand how **interactive dashboards** turn static insights into flexible tools
 
----
+</td>
+
+<td width="29%" valign="top" align="right">
+  <img src="https://github.com/user-attachments/assets/8fe57f46-7e45-45d8-96f1-1946dbb89341" alt="Sidebar Banner" width="300"/>
+  <img src="https://github.com/user-attachments/assets/ed2aad7a-2c56-4766-a87e-5eb536606535" alt="Sidebar Banner" width="300"/>
+  <img src="https://github.com/user-attachments/assets/c9c766b7-c17b-4d74-b7d9-3599471a233e" alt="Sidebar Banner" width="300"/>
+</td>
+</tr>
+</table>
 
 ## Broader Applications
 
@@ -69,13 +77,3 @@ The same techniques used here can be applied far beyond sports:
 - **Client-Facing Workflows**: Interactive dashboards for clients to explore models & scenarios  
 
 ## The core value? **Turning data + models into decisions.**
-
-</td>
-
-<td width="29%" valign="top" align="right">
-  <img src="https://github.com/user-attachments/assets/8fe57f46-7e45-45d8-96f1-1946dbb89341" alt="Sidebar Banner" width="300"/>
-  <img src="https://github.com/user-attachments/assets/ed2aad7a-2c56-4766-a87e-5eb536606535" alt="Sidebar Banner" width="300"/>
-  <img src="https://github.com/user-attachments/assets/c9c766b7-c17b-4d74-b7d9-3599471a233e" alt="Sidebar Banner" width="300"/>
-</td>
-</tr>
-</table>
