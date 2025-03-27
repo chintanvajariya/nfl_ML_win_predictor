@@ -51,15 +51,6 @@ This interactive dashboard lets users explore **actual vs. predicted win probabi
 
 ---
 
-## What You Can Learn From It
-
-- How key in-game metrics (score, time, possession) drive win probability  
-- Where ML models succeed — and where they fall short — in real-time predictions  
-- How model tuning and feature selection affect results and interpretability  
-- How decision-making in sports mirrors risk evaluation in other domains
-
----
-
 ## What I Learned From Building It
 
 - How to move from a Jupyter Notebook prototype to a fully interactive web app  
@@ -74,7 +65,6 @@ This interactive dashboard lets users explore **actual vs. predicted win probabi
 The same techniques used here can be applied far beyond sports:
 
 - **Finance**: Predicting stock movement or market behavior using historical data  
-- **Healthcare**: Patient risk scoring and treatment optimization  
 - **Manufacturing**: Predictive maintenance or defect detection  
 - **Client-Facing Workflows**: Interactive dashboards for clients to explore models & scenarios  
 
