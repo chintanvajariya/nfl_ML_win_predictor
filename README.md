@@ -2,7 +2,7 @@
 
 <table cellpadding="0" cellspacing="0" style="border: none;">
 <tr>
-<td width="71%" valign="top">
+<td width="74%" valign="top">
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3c0cbe12-a67b-4e85-a80a-4ac15132df34" alt="NFL Win Probability Dashboard" width="750"/>
@@ -11,8 +11,6 @@
 [**Live App**](https://nflwinprobability.streamlit.app)
 
 This interactive dashboard lets users explore **actual vs. predicted win probabilities** for NFL games. Built with Streamlit, it allows for dynamic adjustments to model parameters, feature selection, and intuitive game exploration — all in real time.
-
----
 
 ## What the Dashboard Does
 
@@ -31,8 +29,6 @@ This interactive dashboard lets users explore **actual vs. predicted win probabi
   <img src="https://github.com/user-attachments/assets/6bb2781c-d6c1-4993-967c-223c69345fce" alt="Combined Win Probabilities" width="750"/>
 </p>
 
----
-
 ## How It Works
 
 - Uses the [`nfl_data_py`](https://pypi.org/project/nfl-data-py/) package to fetch play-by-play data  
@@ -49,8 +45,6 @@ This interactive dashboard lets users explore **actual vs. predicted win probabi
   <img src="https://github.com/user-attachments/assets/d2959dd2-6582-48e1-b535-f4632f0c144c" alt="Feature Importance" width="750"/>
 </p>
 
----
-
 ## What I Learned From Building It
 
 - How to move from a Jupyter Notebook prototype to a fully interactive web app  
@@ -60,7 +54,7 @@ This interactive dashboard lets users explore **actual vs. predicted win probabi
 
 </td>
 
-<td width="29%" valign="top" align="right">
+<td width="26%" valign="top" align="right">
   <img src="https://github.com/user-attachments/assets/8fe57f46-7e45-45d8-96f1-1946dbb89341" alt="Sidebar Banner" width="300"/>
   <img src="https://github.com/user-attachments/assets/ed2aad7a-2c56-4766-a87e-5eb536606535" alt="Sidebar Banner" width="300"/>
   <img src="https://github.com/user-attachments/assets/c9c766b7-c17b-4d74-b7d9-3599471a233e" alt="Sidebar Banner" width="300"/>
